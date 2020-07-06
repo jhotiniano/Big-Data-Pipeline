@@ -27,3 +27,6 @@
 	"two":222.56,
 	"four":"fiat"
 }
+{
+    "one":false
+}
